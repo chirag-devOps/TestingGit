@@ -4,3 +4,5 @@ if uInput=="yes":
     print("Local")
 else:
     print("Other")
+
+print("Thankyou")
