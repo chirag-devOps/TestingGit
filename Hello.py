@@ -6,3 +6,4 @@ else:
     print("Other")
 
 print("Thankyou")
+print("You are safe.")
